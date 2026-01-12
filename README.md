@@ -1,32 +1,3 @@
-Python for efscape
-==================
+# efscape
 
-
-.. image:: https://img.shields.io/pypi/v/efscape.svg
-        :target: https://pypi.python.org/pypi/efscape
-
-.. image:: https://img.shields.io/travis/clinejc/efscape.svg
-        :target: https://travis-ci.org/clinejc/efscape
-
-.. image:: https://readthedocs.org/projects/efscape/badge/?version=latest
-        :target: https://efscape.readthedocs.io/en/latest/?badge=latest
-        :alt: Documentation Status
-
-
-
-
-Provides a Python implementation of the efscape ZeroC ICe interface
-
-
-* Free software: MIT license
-* Documentation: https://efscape.readthedocs.io.
-
-
-Features
---------
-
-* TODO
-
-Credits
--------
-
+Implements a modeling and simulation (M&S) framework that uses ZeroC Ice RPC middleware to deploy a client-server application for simulation services.
